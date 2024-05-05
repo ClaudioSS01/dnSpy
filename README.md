@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>dnSpy - <a href="https://github.com/dnSpy/dnSpy/releases">Última versão</a></title>
+
 </head>
 <body>
     <h1>dnSpy - <a href="https://github.com/dnSpy/dnSpy/releases">Última versão</a></h1>
